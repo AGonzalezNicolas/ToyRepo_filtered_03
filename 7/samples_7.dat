@@ -13,3 +13,5 @@
 
 # This change happens locally in ToyRepo_toFilter_03 (at the same time this file is changed in the origina ToyRepo).
 # Let's see what happens when we try to merge and then filter.
+
+# Can we copy changes without cloning original repo into ToyRepo_toFilter_03?
